@@ -7,6 +7,8 @@ title: SaveHub Documentation
 
 Version 1.0 · Unreal Engine 5.8 · Tested on Windows, Linux and Android
 
+Free Windows demo: [SaveHub_Demo_Win64_v1.0.zip](https://github.com/enquel/SaveHub-Demo/releases/tag/v1.0)
+
 ---
 
 
